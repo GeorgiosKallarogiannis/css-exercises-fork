@@ -1,0 +1,19 @@
+.odd-number {
+    background-color: hsl(0, 100%, 75%);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#unique-item-one {
+    color: hsl(240, 100%, 50%);
+    font-size: 32px;
+}
+
+.odd-number.special {
+    font-size: 24px;
+}
+
+#unique-item-two {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
